@@ -1,0 +1,75 @@
+,Gender,Designation,Syntax easy,Libraries Helpful,Community Support,debug tool,Projects,cross-platform,Used as,runtime,memory management,extensibility and integrity,experience,ongoing projects,updated
+0,Male,Undergrad Student,Agree,Agree,4,4,3,Neutral,2,3,Never,Nan,1-5 years,0,Neutral
+1,Male,Undergrad Student,Agree,Strongly disagree,3,3,2,Neutral,2,3,Never,2,5-10 years,3-5,Agree
+2,Male,Undergrad Student,Agree,Agree,4,5,1,Disagree,1,3,Never,4,Less than a year,0,Agree
+3,Male,Undergrad Student,Agree,Agree,4,3,1,Strongly disagree,1,2,Never,4,Less than a year,0,Neutral
+4,Male,Undergrad Student,Agree,Agree,5,4,6,Agree,1,5,Never,5,1-5 years,More,Agree
+5,Male,Undergrad Student,Strongly disagree,Disagree,2,5,2,Disagree,1,2,Seldom,2,5-10 years,3-5,Neutral
+6,Male,Undergrad Student,Neutral,Neutral,3,3,0,Neutral,2,3,Never,3,Less than a year,0,Neutral
+7,Male,Undergrad Student,Strongly agree,Strongly Agree,4,4,2,Neutral,1,3,Never,Nan,1-5 years,0,Agree
+8,Male,Undergrad Student,Agree,Agree,4,3,5,Agree,2,3,Seldom,Nan,1-5 years,1-3,Agree
+9,Male,Undergrad Student,Agree,Neutral,4,2,0,Strongly disagree,1,3,Seldom,4,Less than a year,0,Neutral
+10,Male,Undergrad Student,Agree,Agree,4,3,3,Disagree,2,3,Sometimes,3,Less than a year,0,Agree
+11,Male,Undergrad Student,Agree,Agree,4,4,3,Neutral,1,3,Seldom,3,1-5 years,1-3,Agree
+12,Male,Undergrad Student,Strongly agree,Strongly Agree,5,4,3,Agree,1,4,Sometimes,4,1-5 years,1-3,Neutral
+13,Male,Undergrad Student,Agree,Strongly Agree,3,3,1,Neutral,2,3,Never,Nan,Less than a year,0,Agree
+14,Male,Undergrad Student,Agree,Agree,3,3,2,Agree,1,3,Always,4,Less than a year,1-3,Agree
+15,Male,Undergrad Student,Agree,Agree,4,4,7,Agree,1,4,Seldom,Nan,1-5 years,0,Agree
+16,Male,Undergrad Student,Agree,Agree,4,3,3,Neutral,3,2,Seldom,Nan,Less than a year,0,Agree
+17,Male,Undergrad Student,Agree,Agree,3,3,1,Agree,1,4,Never,Nan,1-5 years,0,Neutral
+18,Male,Undergrad Student,Strongly agree,Strongly Agree,4,3,4,Agree,2,2,Seldom,Nan,Less than a year,1-3,Agree
+19,Male,Undergrad Student,Agree,Agree,4,5,4,Neutral,3,3,Sometimes,4,1-5 years,1-3,Strongly Agree
+20,Male,Undergrad Student,Agree,Agree,2,3,2,Disagree,1,3,Sometimes,Nan,Less than a year,1-3,Agree
+21,Male,Undergrad Student,Strongly agree,Neutral,4,2,2,Neutral,2,3,Never,2,Less than a year,1-3,Strongly Agree
+22,Male,Undergrad Student,Agree,Agree,3,3,3,Disagree,1,4,Never,Nan,Less than a year,0,Neutral
+23,Male,Undergrad Student,Agree,Strongly Agree,5,4,2,Neutral,1,3,Never,5,Less than a year,1-3,Agree
+24,Male,Undergrad Student,Strongly agree,Strongly Agree,4,3,2,Disagree,2,2,Seldom,4,1-5 years,0,Neutral
+25,Male,Undergrad Student,Neutral,Strongly Agree,4,3,1,Disagree,1,3,Seldom,4,1-5 years,1-3,Neutral
+26,Female,Undergrad Student,Strongly disagree,Neutral,1,1,0,Neutral,1,3,Never,Nan,Less than a year,0,Neutral
+27,Female,Undergrad Student,Agree,Agree,2,3,0,Neutral,1,3,Sometimes,3,Less than a year,0,Neutral
+28,Male,Software Engineer/Masters Student,Strongly agree,Strongly Agree,5,4,6,Neutral,4,3,Seldom,5,1-5 years,1-3,Strongly Agree
+29,Male,Intern/software Engineer Trainee,Strongly agree,Strongly Agree,4,4,4,Agree,3,3,Sometimes,Nan,1-5 years,3-5,Agree
+30,Prefer not to say,Software Engineer/Masters Student,Agree,Neutral,4,4,4,Strongly disagree,4,2,Seldom,4,5-10 years,0,Agree
+31,Male,Software Engineer/Masters Student,Agree,Agree,3,4,2,Neutral,4,4,Seldom,3,1-5 years,1-3,Neutral
+32,Male,Undergrad Student,Strongly agree,Strongly Agree,4,3,3,Neutral,2,5,Seldom,Nan,1-5 years,More,Neutral
+33,Male,Undergrad Student,Agree,Agree,3,3,2,Neutral,1,3,Seldom,Nan,Less than a year,1-3,Neutral
+34,Male,Software Engineer/Masters Student,Agree,Neutral,3,4,2,Strongly Agree,2,4,Sometimes,4,1-5 years,1-3,Agree
+35,Male,Undergrad Student,Strongly agree,Strongly Agree,5,3,5,Neutral,5,3,Never,4,1-5 years,0,Agree
+36,Male,Undergrad Student,Agree,Strongly Agree,4,4,2,Neutral,1,4,Never,Nan,Less than a year,1-3,Agree
+37,Male,Intern/software Engineer Trainee,Strongly agree,Agree,4,4,2,Neutral,2,3,Sometimes,3,5-10 years,More,Agree
+38,Female,Intern/software Engineer Trainee,Agree,Agree,4,4,4,Agree,2,5,Seldom,4,5-10 years,More,Agree
+39,Female,Intern/software Engineer Trainee,Disagree,Disagree,4,2,2,Strongly disagree,2,3,Never,Nan,1-5 years,0,Agree
+40,Male,Unemployed,Agree,Strongly Agree,4,4,3,Disagree,3,4,Never,Nan,5-10 years,0,Disagree
+41,Female,Undergrad Student,Agree,Strongly Agree,4,3,2,Neutral,3,3,Sometimes,Nan,Less than a year,0,Neutral
+42,Prefer not to say,Undergrad Student,Agree,Agree,3,3,2,Strongly disagree,1,2,Sometimes,Nan,Less than a year,1-3,Neutral
+43,Female,Undergrad Student,Agree,Agree,3,4,0,Neutral,1,3,Never,Nan,Less than a year,0,Agree
+44,Male,Undergrad Student,Neutral,Agree,4,3,0,Neutral,1,4,Seldom,3,Less than a year,0,Neutral
+45,Male,Undergrad Student,Strongly agree,Strongly Agree,3,3,2,Agree,2,4,Sometimes,Nan,Less than a year,1-3,Agree
+46,Male,Undergrad Student,Agree,Neutral,4,3,0,Neutral,1,4,Always,3,Less than a year,0,Agree
+47,Male,Software Engineer/Masters Student,Agree,Agree,4,4,3,Agree,3,3,Sometimes,3,1-5 years,1-3,Neutral
+48,Male,Undergrad Student,Agree,Neutral,4,4,0,Neutral,1,3,Never,Nan,Less than a year,0,Neutral
+49,Male,Undergrad Student,Agree,Strongly Agree,4,4,1,Agree,3,4,Seldom,Nan,Less than a year,1-3,Strongly Agree
+50,Male,Undergrad Student,Strongly agree,Agree,4,4,1,Agree,1,5,Seldom,4,1-5 years,0,Agree
+51,Male,Undergrad Student,Neutral,Neutral,3,3,0,Agree,1,3,Seldom,4,Less than a year,0,Neutral
+52,Male,Undergrad Student,Strongly agree,Agree,5,5,6,Neutral,2,3,Never,5,1-5 years,0,Neutral
+53,Male,Undergrad Student,Agree,Agree,3,2,3,Strongly Agree,4,4,Sometimes,4,1-5 years,1-3,Agree
+54,Male,Undergrad Student,Agree,Strongly Agree,3,3,0,Agree,1,3,Seldom,3,Less than a year,0,Agree
+55,Male,Software Engineer/Masters Student,Agree,Agree,3,2,3,Disagree,1,3,Never,3,1-5 years,0,Neutral
+56,Female,Software Engineer/Masters Student,Agree,Strongly Agree,5,3,5,Agree,3,2,Seldom,3,5-10 years,1-3,Agree
+57,Female,Undergrad Student,Disagree,Neutral,2,1,0,Neutral,1,2,Never,1,10 or more,0,Neutral
+58,Female,Undergrad Student,Agree,Agree,4,3,0,Agree,1,4,Seldom,Nan,Less than a year,0,Agree
+59,Male,Undergrad Student,Agree,Neutral,4,3,0,Neutral,1,3,Never,3,Less than a year,0,Neutral
+60,Male,Undergrad Student,Agree,Agree,3,4,1,Disagree,2,3,Seldom,Nan,Less than a year,0,Agree
+61,Female,Software Engineer/Masters Student,Agree,Agree,3,2,6,Neutral,3,4,Never,3,1-5 years,More,Agree
+62,Male,Undergrad Student,Strongly agree,Agree,4,3,1,Neutral,2,3,Sometimes,4,Less than a year,1-3,Agree
+63,Male,Undergrad Student,Agree,Neutral,3,4,0,Neutral,1,4,Never,4,Less than a year,0,Agree
+64,Male,Undergrad Student,Agree,Agree,3,3,0,Agree,1,3,Sometimes,4,Less than a year,0,Agree
+65,Male,Undergrad Student,Agree,Agree,4,3,2,Neutral,2,4,Never,Nan,Less than a year,0,Agree
+66,Male,Undergrad Student,Agree,Strongly Agree,2,3,1,Neutral,1,3,Seldom,3,Less than a year,0,Disagree
+67,Male,Software Engineer/Masters Student,Agree,Agree,4,3,4,Agree,3,4,Sometimes,4,1-5 years,1-3,Agree
+68,Male,Undergrad Student,Strongly agree,Agree,4,3,0,Disagree,2,1,Never,Nan,Less than a year,0,Strongly Agree
+69,Male,Undergrad Student,Agree,Disagree,3,4,1,Agree,2,3,Never,4,Less than a year,0,Neutral
+70,Male,Software Engineer/Masters Student,Agree,Strongly Agree,5,1,3,Neutral,1,5,Seldom,Nan,1-5 years,0,Neutral
+71,Male,Undergrad Student,Agree,Agree,5,5,3,Neutral,2,4,Sometimes,4,Less than a year,1-3,Agree
+72,Female,Undergrad Student,Strongly disagree,Agree,3,2,0,Neutral,1,3,Sometimes,3,Less than a year,0,Neutral
+73,Male,Undergrad Student,Agree,Neutral,3,3,0,Disagree,1,4,Sometimes,3,Less than a year,1-3,Neutral

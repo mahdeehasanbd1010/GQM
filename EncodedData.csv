@@ -1,0 +1,75 @@
+,Gender,Designation,Syntax easy,Libraries Helpful,Community Support,debug tool,Projects,cross-platform,Used as,runtime,memory management,extensibility and integrity,experience,ongoing projects,updated
+0,0,Undergrad Student,1,1,4,4,3,0,2,3,2,Nan,1,0,0
+1,0,Undergrad Student,1,-2,3,3,2,0,2,3,2,2,2,2,1
+2,0,Undergrad Student,1,1,4,5,1,-1,1,3,2,4,0,0,1
+3,0,Undergrad Student,1,1,4,3,1,-2,1,2,2,4,0,0,0
+4,0,Undergrad Student,1,1,5,4,6,1,1,5,2,5,1,3,1
+5,0,Undergrad Student,-2,-1,2,5,2,-1,1,2,1,2,2,2,0
+6,0,Undergrad Student,0,0,3,3,0,0,2,3,2,3,0,0,0
+7,0,Undergrad Student,2,2,4,4,2,0,1,3,2,Nan,1,0,1
+8,0,Undergrad Student,1,1,4,3,5,1,2,3,1,Nan,1,1,1
+9,0,Undergrad Student,1,0,4,2,0,-2,1,3,1,4,0,0,0
+10,0,Undergrad Student,1,1,4,3,3,-1,2,3,0,3,0,0,1
+11,0,Undergrad Student,1,1,4,4,3,0,1,3,1,3,1,1,1
+12,0,Undergrad Student,2,2,5,4,3,1,1,4,0,4,1,1,0
+13,0,Undergrad Student,1,2,3,3,1,0,2,3,2,Nan,0,0,1
+14,0,Undergrad Student,1,1,3,3,2,1,1,3,-1,4,0,1,1
+15,0,Undergrad Student,1,1,4,4,7,1,1,4,1,Nan,1,0,1
+16,0,Undergrad Student,1,1,4,3,3,0,3,2,1,Nan,0,0,1
+17,0,Undergrad Student,1,1,3,3,1,1,1,4,2,Nan,1,0,0
+18,0,Undergrad Student,2,2,4,3,4,1,2,2,1,Nan,0,1,1
+19,0,Undergrad Student,1,1,4,5,4,0,3,3,0,4,1,1,2
+20,0,Undergrad Student,1,1,2,3,2,-1,1,3,0,Nan,0,1,1
+21,0,Undergrad Student,2,0,4,2,2,0,2,3,2,2,0,1,2
+22,0,Undergrad Student,1,1,3,3,3,-1,1,4,2,Nan,0,0,0
+23,0,Undergrad Student,1,2,5,4,2,0,1,3,2,5,0,1,1
+24,0,Undergrad Student,2,2,4,3,2,-1,2,2,1,4,1,0,0
+25,0,Undergrad Student,0,2,4,3,1,-1,1,3,1,4,1,1,0
+26,1,Undergrad Student,-2,0,1,1,0,0,1,3,2,Nan,0,0,0
+27,1,Undergrad Student,1,1,2,3,0,0,1,3,0,3,0,0,0
+28,0,Software Engineer/Masters Student,2,2,5,4,6,0,4,3,1,5,1,1,2
+29,0,Intern/software Engineer Trainee,2,2,4,4,4,1,3,3,0,Nan,1,2,1
+30,2,Software Engineer/Masters Student,1,0,4,4,4,-2,4,2,1,4,2,0,1
+31,0,Software Engineer/Masters Student,1,1,3,4,2,0,4,4,1,3,1,1,0
+32,0,Undergrad Student,2,2,4,3,3,0,2,5,1,Nan,1,3,0
+33,0,Undergrad Student,1,1,3,3,2,0,1,3,1,Nan,0,1,0
+34,0,Software Engineer/Masters Student,1,0,3,4,2,2,2,4,0,4,1,1,1
+35,0,Undergrad Student,2,2,5,3,5,0,5,3,2,4,1,0,1
+36,0,Undergrad Student,1,2,4,4,2,0,1,4,2,Nan,0,1,1
+37,0,Intern/software Engineer Trainee,2,1,4,4,2,0,2,3,0,3,2,3,1
+38,1,Intern/software Engineer Trainee,1,1,4,4,4,1,2,5,1,4,2,3,1
+39,1,Intern/software Engineer Trainee,-1,-1,4,2,2,-2,2,3,2,Nan,1,0,1
+40,0,Unemployed,1,2,4,4,3,-1,3,4,2,Nan,2,0,-1
+41,1,Undergrad Student,1,2,4,3,2,0,3,3,0,Nan,0,0,0
+42,2,Undergrad Student,1,1,3,3,2,-2,1,2,0,Nan,0,1,0
+43,1,Undergrad Student,1,1,3,4,0,0,1,3,2,Nan,0,0,1
+44,0,Undergrad Student,0,1,4,3,0,0,1,4,1,3,0,0,0
+45,0,Undergrad Student,2,2,3,3,2,1,2,4,0,Nan,0,1,1
+46,0,Undergrad Student,1,0,4,3,0,0,1,4,-1,3,0,0,1
+47,0,Software Engineer/Masters Student,1,1,4,4,3,1,3,3,0,3,1,1,0
+48,0,Undergrad Student,1,0,4,4,0,0,1,3,2,Nan,0,0,0
+49,0,Undergrad Student,1,2,4,4,1,1,3,4,1,Nan,0,1,2
+50,0,Undergrad Student,2,1,4,4,1,1,1,5,1,4,1,0,1
+51,0,Undergrad Student,0,0,3,3,0,1,1,3,1,4,0,0,0
+52,0,Undergrad Student,2,1,5,5,6,0,2,3,2,5,1,0,0
+53,0,Undergrad Student,1,1,3,2,3,2,4,4,0,4,1,1,1
+54,0,Undergrad Student,1,2,3,3,0,1,1,3,1,3,0,0,1
+55,0,Software Engineer/Masters Student,1,1,3,2,3,-1,1,3,2,3,1,0,0
+56,1,Software Engineer/Masters Student,1,2,5,3,5,1,3,2,1,3,2,1,1
+57,1,Undergrad Student,-1,0,2,1,0,0,1,2,2,1,3,0,0
+58,1,Undergrad Student,1,1,4,3,0,1,1,4,1,Nan,0,0,1
+59,0,Undergrad Student,1,0,4,3,0,0,1,3,2,3,0,0,0
+60,0,Undergrad Student,1,1,3,4,1,-1,2,3,1,Nan,0,0,1
+61,1,Software Engineer/Masters Student,1,1,3,2,6,0,3,4,2,3,1,3,1
+62,0,Undergrad Student,2,1,4,3,1,0,2,3,0,4,0,1,1
+63,0,Undergrad Student,1,0,3,4,0,0,1,4,2,4,0,0,1
+64,0,Undergrad Student,1,1,3,3,0,1,1,3,0,4,0,0,1
+65,0,Undergrad Student,1,1,4,3,2,0,2,4,2,Nan,0,0,1
+66,0,Undergrad Student,1,2,2,3,1,0,1,3,1,3,0,0,-1
+67,0,Software Engineer/Masters Student,1,1,4,3,4,1,3,4,0,4,1,1,1
+68,0,Undergrad Student,2,1,4,3,0,-1,2,1,2,Nan,0,0,2
+69,0,Undergrad Student,1,-1,3,4,1,1,2,3,2,4,0,0,0
+70,0,Software Engineer/Masters Student,1,2,5,1,3,0,1,5,1,Nan,1,0,0
+71,0,Undergrad Student,1,1,5,5,3,0,2,4,0,4,0,1,1
+72,1,Undergrad Student,-2,1,3,2,0,0,1,3,0,3,0,0,0
+73,0,Undergrad Student,1,0,3,3,0,-1,1,4,0,3,0,1,0
